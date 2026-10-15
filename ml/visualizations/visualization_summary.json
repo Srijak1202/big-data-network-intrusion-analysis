@@ -1,0 +1,13 @@
+{
+  "dataset": "NSL-KDD KDDTrain+.txt",
+  "records_loaded": 125973,
+  "categories": {
+    "Normal": 67343,
+    "DoS": 45927,
+    "Probe": 11656,
+    "R2L": 995,
+    "U2R": 52
+  },
+  "unknown_attack_labels": [],
+  "visualization_count": 20
+}

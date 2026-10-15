@@ -1,0 +1,9 @@
+{
+  "accuracy": 0.7404630943931867,
+  "macro_precision": 0.799539215372269,
+  "macro_recall": 0.5129767227682677,
+  "macro_f1": 0.5418788263647125,
+  "weighted_f1": 0.704585678104779,
+  "task": "Five Class Detection",
+  "selected_model": "Decision Tree"
+}

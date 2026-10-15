@@ -1,0 +1,13 @@
+protocol,attack_category,count
+tcp,Normal,53600
+udp,Normal,12434
+tcp,DoS,42188
+tcp,R2L,995
+udp,DoS,892
+icmp,Normal,1309
+icmp,DoS,2847
+icmp,Probe,4135
+tcp,Probe,5857
+udp,Probe,1664
+tcp,U2R,49
+udp,U2R,3

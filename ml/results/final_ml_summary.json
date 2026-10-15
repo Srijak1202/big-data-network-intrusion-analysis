@@ -1,0 +1,23 @@
+{
+  "dataset": "NSL-KDD",
+  "binary_test_metrics": {
+    "accuracy": 0.7956440738112136,
+    "macro_precision": 0.8237542091970956,
+    "macro_recall": 0.816005014328895,
+    "macro_f1": 0.7954072534665246,
+    "weighted_f1": 0.7944432989474651,
+    "task": "Binary Detection",
+    "selected_model": "Decision Tree"
+  },
+  "five_class_test_metrics": {
+    "accuracy": 0.7404630943931867,
+    "macro_precision": 0.799539215372269,
+    "macro_recall": 0.5129767227682677,
+    "macro_f1": 0.5418788263647125,
+    "weighted_f1": 0.704585678104779,
+    "task": "Five Class Detection",
+    "selected_model": "Decision Tree"
+  },
+  "model_directory": "/home/srija-kesavarapu/Downloads/projects/BigData/BD_Review3/ml/models",
+  "results_directory": "/home/srija-kesavarapu/Downloads/projects/BigData/BD_Review3/out/ml"
+}

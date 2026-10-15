@@ -11,3 +11,24 @@ __pycache__/
 # Virtual environment
 venv/
 .venv/
+# Node.js
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Editor and operating-system files
+.vscode/
+.DS_Store
+data/prediction_history_fallback.json
+data/prediction_history_fallback.json

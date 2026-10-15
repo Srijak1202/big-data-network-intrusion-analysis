@@ -1,0 +1,31 @@
+{
+    "dataset": "NSL-KDD KDDTrain+.txt",
+    "valid_records": 125973,
+    "rdd_partitions": 2,
+    "attack_categories": {
+        "Normal": 67343,
+        "DoS": 45927,
+        "Probe": 11656,
+        "R2L": 995,
+        "U2R": 52
+    },
+    "protocols": {
+        "tcp": 102689,
+        "udp": 14993,
+        "icmp": 8291
+    },
+    "services": 70,
+    "connection_flags": {
+        "SF": 74945,
+        "S0": 34851,
+        "REJ": 11233,
+        "RSTR": 2421,
+        "RSTO": 1562,
+        "S1": 365,
+        "SH": 271,
+        "S2": 127,
+        "RSTOS0": 103,
+        "S3": 49,
+        "OTH": 46
+    }
+}
